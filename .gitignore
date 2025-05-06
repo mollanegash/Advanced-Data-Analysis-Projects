@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+.localized
+
+# Node modules and build artifacts
+node_modules/
+*.log
+*.tmp
+
+# Custom folders and files outside project
+../BU MET data/
+../MU/
+../MUM/
+../St.Mary/
+../career/
+../files/
+../va/
+../../mindtree/
+../../revision/
+../tmpjze5su8x.csv
+../../keystore.p12
