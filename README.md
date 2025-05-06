@@ -4,11 +4,10 @@ This repository contains a collection of my advanced data analysis projects comp
 
 ## Contents
 
-- 📁 **Automatidata_Project/** – End-to-end analysis project using the PACE (Plan, Analyze, Construct, Execute) framework.
-  - 🗂️ Activity Templates (PACE strategy doc and executive summary slides)
-  - 📄 Executive Summary and PACE Strategy (PDF versions)
-  - 📂 Data/ – Raw and cleaned datasets
-  - 📂 Project_Notebooks/ – Jupyter notebooks with data cleaning, EDA, and modeling
+- 📁 **Data/** – Raw and cleaned datasets
+- 📁 **Notebooks/** – Jupyter notebooks for data cleaning, EDA, and modeling
+- 📁 **Reports/** – Final reports and summaries (PDF versions)
+- 🧾 **requirements.txt** – Python dependencies
 
 ## Tools & Skills
 
